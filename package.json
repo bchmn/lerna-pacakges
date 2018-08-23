@@ -1,0 +1,27 @@
+{
+  "name": "lerna-packages",
+  "version": "0.0.1",
+  "description": "Get basic information about all your lerna packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bchmn/lerna-packages.git"
+  },
+  "keywords": [
+    "lerna",
+    "pacakges"
+  ],
+  "author": "Jonathan Bachman <jbachman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bchmn/lerna-packages/issues"
+  },
+  "homepage": "https://github.com/bchmn/lerna-packages#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "lodash.get": "^4.4.2"
+  }
+}
