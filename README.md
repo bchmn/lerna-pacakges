@@ -27,6 +27,6 @@ Returns an array of objects with the following data structure:
 ```
 
 ### Options
-* `configPath` The path to your `lerna.json`.  Defaults
-  to `./lerna.json`.
+* `rootDir` The directory containing your `lerna.json`.  Defaults
+  to the directory where you invode the function.
 * `additionalKeys` An array of additional keys to pull from the modules package.json. Defaults to `[]`.

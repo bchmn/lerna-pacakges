@@ -1,6 +1,6 @@
 {
   "name": "lerna-packages",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get basic information about all your lerna packages",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/bchmn/lerna-packages#readme",
   "dependencies": {
-    "glob": "^7.1.2",
     "lodash.get": "^4.4.2"
   }
 }
